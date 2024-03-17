@@ -40,10 +40,10 @@ Start a chat with the bot on Telegram. Use commands such as "/start" to interact
 ##Contributing
 Contributions are welcome! If you'd like to contribute to the development of this bot, please fork the repository and submit a pull request with your changes.
 
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-##Acknowledgements
+## Acknowledgements
 Special thanks to the developers of aiogram and SQLAlchemy for creating such powerful libraries for building Telegram bots and working with databases in Python.
 
 For any questions or support, feel free to mail me at ahntr@vk.com.
