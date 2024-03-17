@@ -1,0 +1,4 @@
+aiogram==3.0.0
+pyzbar==0.1.8
+qrcode==7.3
+sqlalchemy==1.4.32
